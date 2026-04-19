@@ -30,10 +30,10 @@
 
 
 ## Team Division of Labor
-- Requirements Analysis & System Design: All team members
+- Requirements Analysis & System Design: CAI JIESHENG
 - Code Writing & Implementation: ZHANG FRANCISCO
-- Software Testing & Debugging: All team members
-- Document Writing & Video Production: All team members
+- Software Testing & Debugging: CHINGJUIHUNG
+- Document Writing & Video Production: WANG HAOLAN
 ## Running Environment & Dependencies
 - Programming Language: Python 3.x
 - GUI Library: Tkinter (built-in standard library, no extra installation)
