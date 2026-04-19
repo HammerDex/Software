@@ -1,6 +1,7 @@
 ## Project Overview: COMP2116 Software Engineering Final Project
 - Project: Simple Desktop Graphical Calculator Application (Python & Tkinter)
 
+<img width="402" height="390" alt="81926ee667d02f2bbcdbafaca4d04e8d" src="https://github.com/user-attachments/assets/51fddb5e-ab8c-49af-aaa8-e5db6628afdc" />
 
 
 
@@ -11,7 +12,7 @@
   - All functions determined at initial stage, no frequent demand changes & iterations
   - Short development cycle, supports linear sequential development
   - Perfectly matches characteristics of small stable project
-## Complete 5 Stages of Waterfall Development Process (Excluding Delivery)
+## Complete 5 Stages of Waterfall Development Process 
 - Requirements Analysis Phase
   - Realize basic four arithmetic operations with GUI
   - Support normal calculation & illegal input prompt
@@ -25,6 +26,9 @@
   - Test normal arithmetic calculation functions
   - Test invalid input (letters / symbols)
   - Verify program stability & error prompt function
+ <img width="3282" height="1742" alt="711d884e63a5e272c76b8209c89a3559" src="https://github.com/user-attachments/assets/5c0965e7-398f-4596-b131-ebd4e6e14b06" />
+
+
 ## Team Division of Labor
 - Requirements Analysis & System Design: All team members
 - Code Writing & Implementation: ZHANG FRANCISCO
@@ -38,6 +42,12 @@
 ## Current Project Status & Future Plan
 - Current Status: Fully completed, stable running, complete functions & error prompts
 - Future Improvement: Add square root, percentage, memory calculation; optimize interface style
+## Video
+  
+
+https://github.com/user-attachments/assets/ecd854d8-9564-425f-aca1-12bc2348d2a5
+
+
 ## Open Source Statement
 - All project codes are original development
 - Tkinter is open-source standard library of Python
